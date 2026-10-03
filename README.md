@@ -8,4 +8,4 @@ Licensed under the **[Aeralis Foundation's Restrictive License (AFRL)](https://g
 Origin Project: [Early-Releases](https://github.com/Aeralis-Foundation/Early-Releases)  
 Project Source: [Early-Releases](https://github.com/Aeralis-Foundation/Early-Releases)  
 
-Permission Contact: aeralis.foundaion@outlook.com  
+Permission Contact: aeralis.foundation@outlook.com  
